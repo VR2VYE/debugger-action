@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Setup Debug Session
-      uses: VR2VYE/debugger-action@master
+      uses: vr2vye/debugger-action@master
